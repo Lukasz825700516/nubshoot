@@ -6,7 +6,7 @@ the raytracing cutting eadge technology.
 ```
 cd server
 yarn
-node index.js
+node main.js
 ```
 and open `client/index.html` in your browser.
 
