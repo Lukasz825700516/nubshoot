@@ -5,7 +5,7 @@ the raytracing cutting eadge technology.
 ## How to play
 ```
 cd server
-yarn upgrade
+yarn
 node index.js
 ```
 and open `client/index.html` in your browser.
